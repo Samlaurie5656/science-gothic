@@ -1,2 +1,2 @@
-# science-gothic
+# type-single-page
  
