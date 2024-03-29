@@ -44,7 +44,11 @@ grid-area: v;
 #alphabet {
 grid-area: a;
 background-color: white;
+font-size: 18px;
 padding:10px;
+text-align:left
+
+
 }
 }
 /* CSS for the footer */
@@ -139,6 +143,8 @@ h4{
     top: -1550px;
     left: 110%;
     color: rgb(0, 0, 0);
+    background-color: white;
+    padding: 10px;
 }
 h5{
         margin-top: 0px;
@@ -150,6 +156,8 @@ h5{
         top: -1585px;
         left: 110%;
         color: #000000;
+        background-color: white;
+    padding: 10px;
 }
 h6{
     margin-top: 0px;
