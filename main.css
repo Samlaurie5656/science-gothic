@@ -43,11 +43,14 @@ grid-area: v;
 
 #alphabet {
 grid-area: a;
+background-color: white;
+padding:10px;
 }
 }
 /* CSS for the footer */
 footer{
     background-color: rgb(255, 238, 0);
+    padding: 10px;
 }
 h2{
     color: rgb(0, 0, 0);
