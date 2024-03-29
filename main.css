@@ -9,8 +9,8 @@
     *{
     }
     body{
-    background-color: rgb(255, 255, 255);
-    background-image: url("background3.png");
+    background-color: #000000;
+    background-image: url("background10.png");
     font-family: 'Science Gothic';
     background-position: left;
     background-repeat: no-repeat;
@@ -35,22 +35,35 @@ grid-area: v;
 }
 
 #alphabet {
-grid-area: a;
-background-color: white;
-font-size: 18px;
-padding:10px;
-text-align:left
-
-
 }
+.character-set{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-weight: 10;
+    font-size: 30px;
+    text-align: left;
+    position: relative; 
+    top: 375px;
+    left: 50%;
+    color: #ffffff;
+padding-top: 10px;
+width: 600px;
+}
+
 /* CSS for the footer */
 footer{
-    background-color: rgb(255, 238, 0);
-    padding: 10px;
+    background-color: #97BBE8;
+    padding: 20px;
+}
+.footer-footer{
+    color: white;
+    font-size: 25px;
+    text-align: center;
 }
 h2{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 20px;
+    text-align: left;
 }
 /* variable font animation */
 h3{
@@ -60,13 +73,13 @@ h3{
         font-size: 15px;
         text-align: center;
         position: relative; 
-        top: 100px;
-        right:21%;
+        top: 80px;
+        right:28%;
     font-weight:20; 
     text-align: center;
     font-size: 5em;
     animation: weightChange 7s infinite;
-    color: rgb(255, 255, 255);
+    color:#97BBE8;
 }
 
 @keyframes weightChange {
@@ -77,28 +90,77 @@ h3{
     }
     
 }
+.character-set3{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-weight: 10;
+    font-size: 20px;
+    text-align: left;
+    position: relative; 
+    top: -350px;
+    left: 80%;
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+padding-top: 10px;
+width: 600px;
+}
+.character-set2{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-weight: 10;
+    font-size: 30px;
+    text-align: left;
+    position: relative; 
+    top: -350px;
+    left: 80%;
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+padding-top: 10px;
+width: 600px;
+}
+.character-set1{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-weight: 10;
+    font-size: 20px;
+    text-align: left;
+    position: relative; 
+    top: 0%;
+    left: 0%;
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+padding-top: 10px;
+width: 600px;
+}
 #variations{
-    margin-left: 750px;
-    margin-top: -915px;
+    margin-left: 340px;
+    margin-top: -1325px;
+    line-height: 40px;
+}
+.variations-sc{
+    color: white;
+    font-size: 30px;
+    line-height: 40px;
+    background-color: #000000;
 }
 .weight{
-    color: rgb(0, 0, 0);
-    font-size: 30px;
+    color: #ffffff;
+    font-size: 20px;
     font-variation-settings: "YOPQ" 122, "slnt" 0, "wdth" 100, "wght" 900;
 }
 .width{
-    color: rgb(0, 0, 0);
-    font-size: 30px;
+    color: #ffffff;
+    font-size: 20px;
     font-variation-settings: "YOPQ" 122, "slnt" 0, "wdth" 200, "wght" 100;
 }
 .y-opaque{
-    color: rgb(0, 0, 0);
-    font-size: 30px;
+    color: #ffffff;
+    font-size: 20px;
     font-variation-settings: "YOPQ" 122, "slnt" 0, "wdth" 100, "wght" 100;
 }
 .slant{
-    color: rgb(0, 0, 0);
-    font-size: 30px;
+    color: #ffffff;
+    font-size: 20px;
     font-variation-settings: "YOPQ" 122, "slnt" -10, "wdth" 100, "wght" 100;
 }
 /* variable font that changes on hover */
@@ -133,35 +195,35 @@ h4{
     position: relative; 
     text-align: left;
     top: -1610px;
-    left: 55%;
-    color: rgb(0, 0, 0);
-    background-color: white;
+    left: 33%;
+    color: #ffffff;
+    background-color: #000000;
     padding: 10px;
 }
 h5{
         margin-top: 0px;
         padding-top: 0px;
         font-weight: 10;
-        font-size: 15px;
+        font-size: 16px;
+        line-height: 20px;
         text-align: left;
         position: relative; 
         top: -1655px;
-        left: 55%;
-        color: #000000;
-        background-color: white;
+        left: 33%;
+        color: #ffffff;
     padding: 10px;
-    width: 700px;
+    width: 600px;
 }
 h6{
     margin-top: 0px;
         padding-top: 0px;
         font-weight: 10;
-        font-size: 15px;
+        font-size: 20px;
         text-align: center;
         position: relative; 
-        top: -540px;
-        right: 7%;
+        top: -700px;
+        right: 19%;
     font-size: 30px;
     animation: weightChange 7s infinite;
-    color: #000000;
+    color:#97BBE8;
 }
