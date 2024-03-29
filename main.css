@@ -23,14 +23,7 @@
 /* how the page wrapper appears on desktop */
 
 @media only screen and (min-width:800px){
-.page-wrapper{
-display: grid;
-grid-gap: 25px;
-grid-template-columns: 1fr 1fr;
-grid-template-rows: auto;
-grid-template-areas: 
-    "h v"
-    "a a";
+
 }
 
 #history {
@@ -49,7 +42,6 @@ padding:10px;
 text-align:left
 
 
-}
 }
 /* CSS for the footer */
 footer{
@@ -86,8 +78,8 @@ h3{
     
 }
 #variations{
-    margin-left: -152px;
-    margin-top: -930px;
+    margin-left: 750px;
+    margin-top: -915px;
 }
 .weight{
     color: rgb(0, 0, 0);
@@ -140,8 +132,8 @@ h4{
     font-family: 'Science gothic';
     position: relative; 
     text-align: left;
-    top: -1550px;
-    left: 110%;
+    top: -1610px;
+    left: 55%;
     color: rgb(0, 0, 0);
     background-color: white;
     padding: 10px;
@@ -153,11 +145,12 @@ h5{
         font-size: 15px;
         text-align: left;
         position: relative; 
-        top: -1585px;
-        left: 110%;
+        top: -1655px;
+        left: 55%;
         color: #000000;
         background-color: white;
     padding: 10px;
+    width: 700px;
 }
 h6{
     margin-top: 0px;
@@ -166,7 +159,7 @@ h6{
         font-size: 15px;
         text-align: center;
         position: relative; 
-        top: -1000px;
+        top: -540px;
         right: 7%;
     font-size: 30px;
     animation: weightChange 7s infinite;
