@@ -53,7 +53,9 @@ width: 600px;
 /* CSS for the footer */
 footer{
     background-color: #97BBE8;
-    padding: 20px;
+    padding: 10px;
+    top:200px;
+
 }
 .footer-footer{
     color: white;
