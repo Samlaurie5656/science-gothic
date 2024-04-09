@@ -10,7 +10,7 @@
     }
     body{
     background-color: #000000;
-    background-image: url("Finalbackgroundwebsite.png");
+    background-image: url("background10.png");
     font-family: 'Science Gothic';
     background-position: left;
     background-repeat: no-repeat;
@@ -54,6 +54,8 @@ width: 600px;
 footer{
     background-color: #97BBE8;
     padding: 10px;
+    padding-top: 100px;
+    height: 350px;
     top:200px;
 
 }
