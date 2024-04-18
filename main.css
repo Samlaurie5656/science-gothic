@@ -198,7 +198,7 @@ h4{
     font-family: 'Science gothic';
     position: relative; 
     text-align: left;
-    top: -1610px;
+    top: -1600px;
     left: 33%;
     color: #ffffff;
     background-color: #000000;
@@ -212,7 +212,7 @@ h5{
         line-height: 20px;
         text-align: left;
         position: relative; 
-        top: -1655px;
+        top: -1645px;
         left: 33%;
         color: #ffffff;
     padding: 10px;
@@ -225,7 +225,7 @@ h6{
         font-size: 20px;
         text-align: center;
         position: relative; 
-        top: -725px;
+        top: -775px;
         right: 19%;
     font-size: 30px;
     animation: weightChange 7s infinite;
