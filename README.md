@@ -1,2 +1,2 @@
 # type-single-page
- 
+ For this webpage I used Lara Henderson's template for building a webpage. We were instructed to pick a font for our project in which I picked science gothic. We had to include a hero section, as well as information about the font, and the unique characteristics that came with the font. For the design, I decided to choose a futuristic approach with a black background. The colors blue and pink work well with each other and pop off the black background. I threw these colors around and in the navigation bar as well. I originally had a border on my footer but after some adjustments, I decided I was better off without it. This concludes my project ofs the font: science gothic.
